@@ -21,18 +21,18 @@
 </p>
 
 <p align="left">
-  <a href="jhonnyfarias87@gmail.com" alt="Gmail">
+  <a href="mailto:jhonnyfarias87@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="/>
   </a>
   
-  <a href="www.linkedin.com/in/jhonny-farias/" alt="Linkedin">
+  <a href="https://www.www.linkedin.com/in/jhonny-farias/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/></a>
   
-  <a href="api.whatsapp.com/send?phone=5581984824780" alt="WhatsApp">
+  <a href="https://www.api.whatsapp.com/send?phone=5581984824780" alt="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/>
   </a>
   
-  <a href="youtube.com/jhonnyfreitas1" alt="Youtube Channel">
+  <a href="https://www.youtube.com/jhonnyfreitas1" alt="Youtube Channel">
      <img src="https://img.shields.io/youtube/channel/views/UC1GZbUU6q5Yr_luFT0rMPtQ?label=Jhonnyfreitas1&style=social"/>
   </a>
   
