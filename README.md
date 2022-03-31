@@ -3,8 +3,8 @@
 <h3>Jhonny de farias</h3>
 
 - 💜 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **sistemas de informação** no <a href="#">Estácio</a>.
-- 💼 &nbsp; Trabalhando como **Analista Salesforce** na <a href="#">Accenture</a>
+- 🎓 &nbsp; Estudando **sistemas de informação**
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Salesforce** 
 - 🌱 &nbsp; Aprendendo mais sobre **ReactNative, Aura Components, lightning Web components**.
 
 <p align="left">
