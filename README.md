@@ -32,10 +32,6 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/>
   </a>
   
-  <a href="https://www.youtube.com/jhonnyfreitas1" alt="Youtube Channel">
-     <img src="https://img.shields.io/youtube/channel/views/UC1GZbUU6q5Yr_luFT0rMPtQ?label=Jhonnyfreitas1&style=social"/>
-  </a>
-  
   <a href="https://www.instagram.com/jhonny_freitas1/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/>
   </a>
